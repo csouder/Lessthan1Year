@@ -1,0 +1,6 @@
+C:\Users\ChaseSouder\source\repos\LessThan1Year\LessThan1Year\obj\Debug\LessThan1Year.csprojAssemblyReference.cache
+C:\Users\ChaseSouder\source\repos\LessThan1Year\LessThan1Year\obj\Debug\LessThan1Year.csproj.CoreCompileInputs.cache
+C:\Users\ChaseSouder\source\repos\LessThan1Year\LessThan1Year\bin\Debug\LessThan1Year.dll
+C:\Users\ChaseSouder\source\repos\LessThan1Year\LessThan1Year\bin\Debug\LessThan1Year.pdb
+C:\Users\ChaseSouder\source\repos\LessThan1Year\LessThan1Year\obj\Debug\LessThan1Year.dll
+C:\Users\ChaseSouder\source\repos\LessThan1Year\LessThan1Year\obj\Debug\LessThan1Year.pdb
